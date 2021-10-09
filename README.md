@@ -6,3 +6,5 @@ Here, I did EDA on Loan Prediction Dataset which means,
 - Analyzing relationships among the features
 - Distribution of the features
 - Correlation among the features and so on.
+
+Take a look and got some basic idea about EDA. Happy Learning!
